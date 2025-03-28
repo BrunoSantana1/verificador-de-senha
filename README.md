@@ -14,14 +14,20 @@ Um programa simples em Java que verifica a força de uma senha com base em crit�
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/BrunoSantana1/verificador-forca-senha-java.git
-2. Compile o código:
+   git clone https://github.com/BrunoSantana1/verificador-de-senha.git
+   ```
+2. Acesse a pasta do projeto:
+   ```bash
+   cd verificador-de-senha/src
+   ```
+3. Compile o código:
    ```bash
    javac VerificadorForcaSenha.java
-3. Execute o programa:
+   ```
+4. Execute o jogo:
    ```bash
    java VerificadorForcaSenha
-4. Siga as instruções no terminal para inserir sua senha e verificar sua força.
+   ```
 
 ## 🌟 Exemplo de Uso
 
